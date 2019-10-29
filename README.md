@@ -1,5 +1,5 @@
 # GitHub.io
-Various notes
+Various notes about github, software development, and programming.
 
 ## Create Github repo
 
