@@ -1,6 +1,7 @@
 # GitHub.io
+Various notes
 
-#Create Github repo
+## Create Github repo
 
 To avoid errors, do not initialize the new repository with README, license, or gitignore files. Add these later
 
